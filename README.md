@@ -1,2 +1,5 @@
 # Industrija-4b
-Web stranica preduzeća Industrija 4b d.o.o Kakanj
+Web stranica preduzeća Industrija 4b d.o.o Kakanj.
+Business website, responsive.
+
+
